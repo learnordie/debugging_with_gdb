@@ -16,7 +16,8 @@ int main(void)
 
 	n = 5;
 	factorial = ifactorial(n);
-	printf("\nThe factorial of %d is %d\n", n, factorial);
+	printf("\nFactorial using iterartion\n");
+	printf("\tThe factorial of %d is %d\n", n, factorial);
 }
 
 
